@@ -1,5 +1,3 @@
-### Hi, i'm Matteo 👋
-
 <h1 align="center">Hi 👋, I'm Matteo</h1>
 <h3 align="center">A passionate software engineer from Italy</h3>
 
