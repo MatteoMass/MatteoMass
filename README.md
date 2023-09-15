@@ -2,7 +2,11 @@
 <h3 align="center">A passionate software engineer from Italy</h3>
 
 - 📫 How to reach me **matteomassetti8@gmail.com**
+  
 - 🔭 See my <a href="https://matteomass.github.io/">website</a>
+
+- 🖥️ See my [Linkedin profile](https://www.linkedin.com/in/matteo-massetti-5bab15215/)
+
 
 <h3 align="left">Languages and Tools:</h3>
 <a href="https://www.python.org/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" height="36" style="max-width: 100%;"></a>
